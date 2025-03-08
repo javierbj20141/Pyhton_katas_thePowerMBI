@@ -1,6 +1,7 @@
 # Bienvenidos a mi proyecto de Pyhton 😄
 # Fue uno de los más retadores hasta ahora 🔥, os cuento el proceso:
-![Imagen raciosa](:https://github.com/javierbj20141/Pyhton_katas_thePowerMBI/blob/main/Python%20foto.jpg)
+![Imagen graciosa](:https://github.com/javierbj20141/Pyhton_katas_thePowerMBI/blob/main/Python%20foto.jpg)
+
 Inicialmente empecé visualizando todas las lecciones del módulo de Pyhton, ya que era la primera vez que utilizaba el programa. Primeramente empece con las nociones básicas, posteriormente con funciones y clase, y fianlmente con nociones básicas del funcionamiento de librerias. Acabé muy satisfecho con los conocimientos adquiridos, ya que el progrmaa va poco a poco, dandote la posibilidad de que tu mismo vayas encontrando las conexiones entre unas cosas y otras. Además, los videos se hacían muy amenos, explicando todo muy claro e indicando varios ejemplos. Para una persona que no había usado nunca la herramienta, creo que es se sigue una metodología muy buena y se dan facilidades para entenderlo bien.
 
 Una vez terminadas las lecciones, empecé con los ejercicios del curso. Al principio, los encontré un poco complejos, ya que pedían cosas que no se habían visto en las lecciones. No obstante, auqnue el enunciado específico no se había visto, en todas ellas se había visto la manera en la que se podía sacar, por lo que, a pesar de la dificultad, creo que ha sido un muy buen entrenamiento para poner en práctica lo aprendido. Sin embargo, algunas de ellas si se hacían un poco complicadas, por ello, este es el procedimiento que he seguido:
