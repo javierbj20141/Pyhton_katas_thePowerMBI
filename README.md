@@ -1,6 +1,8 @@
-# Bienvenidos a mi proyecto de Pyhton 😄
-# Fue uno de los más retadores hasta ahora 🔥, os cuento el proceso:
-![Imagen graciosa](https://github.com/javierbj20141/Pyhton_katas_thePowerMBI/blob/48e43ee9ea367bb2d7cef552210c6123960257f8/Python%20foto.jpg)
+# Práctica con Pyhton
+<p align="center">  <img src="Pyhton foto.png" width=300"
+
+<br>
+
 
 Inicialmente empecé visualizando todas las lecciones del módulo de Pyhton, ya que era la primera vez que utilizaba el programa. Primeramente empece con las nociones básicas, posteriormente con funciones y clase, y fianlmente con nociones básicas del funcionamiento de librerias. Acabé muy satisfecho con los conocimientos adquiridos, ya que el progrmaa va poco a poco, dandote la posibilidad de que tu mismo vayas encontrando las conexiones entre unas cosas y otras. Además, los videos se hacían muy amenos, explicando todo muy claro e indicando varios ejemplos. Para una persona que no había usado nunca la herramienta, creo que es se sigue una metodología muy buena y se dan facilidades para entenderlo bien.
 
