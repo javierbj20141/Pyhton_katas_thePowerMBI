@@ -4,11 +4,14 @@
 
 <br>
 
+**Objetivo del proyecto**
 
-Inicialmente empecé visualizando todas las lecciones del módulo de Pyhton, ya que era la primera vez que utilizaba el programa. Primeramente empece con las nociones básicas, posteriormente con funciones y clase, y fianlmente con nociones básicas del funcionamiento de librerias. Acabé muy satisfecho con los conocimientos adquiridos, ya que el progrmaa va poco a poco, dandote la posibilidad de que tu mismo vayas encontrando las conexiones entre unas cosas y otras. Además, los videos se hacían muy amenos, explicando todo muy claro e indicando varios ejemplos. Para una persona que no había usado nunca la herramienta, creo que es se sigue una metodología muy buena y se dan facilidades para entenderlo bien.
+El objetivo principal de este proyecto fue adquirir una base sólida en Python y familiarizarme con los conceptos fundamentales del lenguaje, aplicándolos posteriormente a la resolución de ejercicios prácticos orientados al análisis de datos.
+A lo largo del proyecto se trabajaron aspectos como la sintaxis básica, estructuras de control, funciones, clases y conceptos introductorios relacionados con el uso de librerías. El propósito final fue desarrollar la capacidad de comprender problemas, plantear soluciones mediante programación y adquirir fluidez en el uso de Python como herramienta de análisis.
 
-Una vez terminadas las lecciones, empecé con los ejercicios del curso. Al principio, los encontré un poco complejos, ya que pedían cosas que no se habían visto en las lecciones. No obstante, auqnue el enunciado específico no se había visto, en todas ellas se había visto la manera en la que se podía sacar, por lo que, a pesar de la dificultad, creo que ha sido un muy buen entrenamiento para poner en práctica lo aprendido. Sin embargo, algunas de ellas si se hacían un poco complicadas, por ello, este es el procedimiento que he seguido:
+**Metodología**
 
-Primero, intentaba hacer el ejercicio por mi cuenta, a través de prueba y error e intenando sacar el resultado requerido. Acabé consiguiendolo en muchas de ellas, pero en las que por mas que lo intenba ano lo conseguía, me apoyaba en Copilot. Cuando me apoyaba en esta herramienta, muchas veces era porque me qeudaba a mitad de codigo, o hacia uno que no estaba del todo correcto, entonces le pedía que me diera la respuesta, pero no la copiaba, la escribia yo tratando de entenderla. Incluso muchas veces me indignaba conmigo mismo porque la respuesta era más fácil de lo que parecia, y podía haberla sacado sin está ayuda. No obstante, a medida de que iba avanzando en los enunciados, me apoyaba menos en la herramienta. En definitiva, me ha parecido un proyecto muy interesante y útil, como todos los que he hecho hasta ahora.
+La metodología seguida se basó principalmente en el aprendizaje mediante prueba y error, buscando comprender el razonamiento que hay detrás de cada solución y comparando diferentes alternativas cuando era posible. Para cada ejercicio se analizaba previamente el problema planteado, identificando posibles enfoques de resolución antes de comenzar el desarrollo del código. En aquellos casos de mayor dificultad, se complementó el aprendizaje con la consulta de documentación y recursos de apoyo, siempre con el objetivo de comprender el funcionamiento del código y consolidar los conocimientos adquiridos.
+Este enfoque permitió mejorar progresivamente la capacidad de resolución de problemas, la comprensión de la lógica de programación y el dominio de los fundamentos de Python.
 
-Muchas gracias y un saludo
+Un saludo,
