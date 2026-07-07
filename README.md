@@ -1,4 +1,4 @@
-# Práctica con Python
+# Python business-cases
 
 ![Imagen graciosa](https://github.com/javierbj20141/Pyhton_katas_thePowerMBI/blob/48e43ee9ea367bb2d7cef552210c6123960257f8/Python%20foto.jpg)
 
